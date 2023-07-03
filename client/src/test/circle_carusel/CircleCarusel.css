@@ -1,0 +1,21 @@
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+.vod {
+  text-align: center;
+  align-items: center;
+  border-radius: 50%;
+  /* margin: auto; */
+  overflow: hidden;
+  height: 110px;
+  width: 110px;
+  border-radius: 60px;
+  background-color: rgba(243, 243, 243, 1);
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.vod_select{
+  border: 2px solid rgba(250, 61, 73, 1);
+}

@@ -1,0 +1,58 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 72px 0px 72px;
+  background-color: #ffffff;
+  height: 108px; 
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.logo_title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* height: 3.5rem; */
+  /* width: 100vw; */
+  /* line-height: 3.5rem; */
+  /* color: white; */
+  /* font-size: 36px;
+  font-weight:200;
+  text-align: center; */
+}
+.title{
+  margin-left: 40px;
+  font-size: 36px;
+  color:rgba(0, 0, 0, 0.75);
+
+  filter: drop-shadow(0px 6px 4px rgba(0,0,0,0.25));
+  font-family: 'LGSmH-Bold';
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  /* height: 3.5rem; */
+}
+
+.menu-item {
+  /* display: inline-block; */
+  color: #444C52;
+  font-size: 20px;
+  /* font-style: bold; */
+  margin: 0px 10px 0px 10px;
+  text-align: center;
+  /* cursor: pointer; */
+  /* transition: background-color 0.3s; */
+  /* text-decoration: none; */
+}
+.menu-item:nth-of-type(1) {
+  font-weight: 700;
+}
+.menu-item:hover {
+  /* background-color: red; */
+}
+
+.menu-item:active,
+.menu-item.active {
+  /* background-color: #9cd7ee; */
+}

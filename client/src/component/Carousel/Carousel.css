@@ -1,0 +1,57 @@
+.carousel {
+  display: flex;
+  /* flex-direction: row; */
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-button {
+  background-color: #fff;
+  /* color: #fff; */
+  border: none;
+  /* padding: 10px 20px; */
+  /* font-size: 16px; */
+  cursor: pointer;
+  /* margin: 0 10px; */
+  /* width:30px */
+}
+.carousel-button-image{
+  width:30px;
+}
+.carousel-image-container {
+  display:flex;
+  position: relative;
+}
+
+.carousel-image {
+  position: relative;
+  width: 110px;
+  height: 100px;
+  margin: 0 20px 0 20px;
+  border-radius: 50%;
+  border : 4px solid white;
+  opacity: 0.5;
+}
+
+.carousel-image.active{
+  border:4px solid #FA3D49
+}
+/* Optional: Add animation for image transitions */
+.carousel-image {
+  transition: transform 0.3s ease-in-out;
+}
+.carousel-image.active{  
+  border:4px solid #FA3D49;
+  opacity: 1;
+}
+/* .carousel-image-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+} */
+
+.list_buttons_container{
+  background-color: transparent;
+  border: 0;
+}
+
