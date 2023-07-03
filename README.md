@@ -12,10 +12,8 @@ Figma : https://www.figma.com/file/SbBDf6HNrpPQwNxs83r1g6/Untitled?type=design&n
 
 ## How To Use
 ```sh
-git clone https://github.com/kimym56/CSI4131.git
-cd client
-npm install
-npm start
+This git won't work, because it's a partial clone of the front-end part from the private git containing the server.
+If you want to know more, please email me
 ```
 * 실행 시 server가 동작 중이지 않은 상태이면 Network Error 화면이 뜰수 있음
 * Syntax error: Unexpected token < 
