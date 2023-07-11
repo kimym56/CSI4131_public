@@ -8,6 +8,8 @@
 김시열 : Back-End Developer
 
 ---
+Final Presentation : https://github.com/kimym56/CSI4131_public/blob/main/%EC%BB%A4%EB%84%A5%ED%8B%B0%EB%93%9C%ED%94%8C%EB%9E%AB%ED%8F%BC_KKJTRIO_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf
+
 Figma : https://www.figma.com/file/SbBDf6HNrpPQwNxs83r1g6/Untitled?type=design&node-id=0%3A1&t=AfoGJlEtLJfl7xCD-1
 
 ## How To Use
