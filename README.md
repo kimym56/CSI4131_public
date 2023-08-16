@@ -11,7 +11,8 @@
 ---
 ### Screenshots : 
 ![IMG_3464](https://github.com/kimym56/CSI4131_public/assets/74525390/9b3598bb-54ff-4dde-a563-a1b3107a1f9c)
-<img width="1280" alt="스크린샷 2023-08-15 오후 11 32 42" src="https://github.com/kimym56/CSI4131_public/assets/74525390/d33fa3ac-fdee-4a84-93dc-37c09a5bc26f">
+<img width="1280" alt="스크린샷 2023-08-15 오후 11 43 57" src="https://github.com/kimym56/CSI4131_public/assets/74525390/0f9125c5-5432-4cbf-af63-9be58b2e214c">
+
 ![IMG_3465](https://github.com/kimym56/CSI4131_public/assets/74525390/d16b9606-bbba-42fd-b401-ddc15a4f45af)
 
 ### Final Presentation : https://github.com/kimym56/CSI4131_public/blob/main/%EC%BB%A4%EB%84%A5%ED%8B%B0%EB%93%9C%ED%94%8C%EB%9E%AB%ED%8F%BC_KKJTRIO_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf
